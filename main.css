@@ -1,0 +1,108 @@
+
+.circle1{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: rgba(207, 245, 247,.1);
+	border-right: 2px ridge slateblue;
+	top: 100px;
+	left: 50px;
+	color: blue;
+	
+}
+
+.circle2{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 50%;
+	left: 100%;
+}
+
+.circle3{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 300px;
+	left: 700px;
+}
+
+.circle4{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 10px;
+	left: 1000px;
+}
+
+.circle5{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 600px;
+	left: 1000px;
+}
+
+.circle6{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 600px;
+	left: 100px;
+}
+
+.circle7{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 259px;
+	left: 170px;
+}
+
+.circle8{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 625px;
+	left: 800px;
+}
+
+.circle9{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: transparent;
+	border-right: 2px ridge slateblue;
+	top: 100px;
+	left: 300px;
+}
+
+.cent{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: -50%,-50%;
+}
